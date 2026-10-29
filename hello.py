@@ -1,4 +1,4 @@
-def hello():
-    print("this is branch 01")
+def hello(a, b):
+    print(a + b)
 
-hello()
+hello(1, 2)
